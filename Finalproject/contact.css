@@ -33,19 +33,24 @@ iframe{
     float: right;
     margin: 1em;
     margin-left: 1px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
 }
 #OOF1{
-    color: black;
+    color: #930707;
     font-family: 'Merriweather', serif;
     font-size: 30px;
     border-style: solid;
-    border-color: black;
+    border-color: #930707;
     width: 100%;
     margin-top: 1em;
     width: 24%;
     position: relative;
     top: 30px;
     left: 140px;
+    display: inline;
+    padding: 7px;
 }
 #OOF2{
     border-style: solid;
@@ -53,13 +58,20 @@ iframe{
     float: right;
     border-color: black;
     margin-right: 7px;
-    top: 60px;
+    top: 130px;
+    right: 30px;
     position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
 }
-#img{
+img{
     width: 15%;
     float: left;
     border-radius: 50px;
     border-style: solid;
     border-color: black;
+    position: relative;
+    top: 60px;
+    margin-left: 10px;
+    border-width: 4px;
 }
