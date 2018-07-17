@@ -3,7 +3,9 @@
 }
 
 body {
-    background-color: ghostwhite;
+    background: url(school.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
     color: rgb(255, 255, 255);
     font-size: 30px;
 }
