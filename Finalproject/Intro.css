@@ -2,7 +2,6 @@ p{
     font-size:18.5px;     
     color: black;
     font-family: 'Merriweather', serif;
-    text-align: center;
     
 }
 h3{
@@ -17,7 +16,7 @@ ul{
     overflow:hidden;
     background-color:darkred; 
     font-family: 'Merriweather', serif;
-    font-size:20px;
+    font-size:25px;
     
 }
 li a{
@@ -25,7 +24,7 @@ li a{
     display:block;
     text-align:center;
     text-decoration:none;
-    padding:1.5px;
+    padding:24px;
     color:ghostwhite;
     font-family: 'Merriweather', serif;
 }
@@ -47,10 +46,12 @@ h2{
 img{
     box-shadow: 5px 5px 10px darkred;
 }
-
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+p{
+    font-size: 28px
 }
 
