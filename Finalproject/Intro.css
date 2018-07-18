@@ -89,10 +89,12 @@ body{
     background-color: white;
     font-family: 'Merriweather', serif;
 }
-h2{
+h1{
     text-align: center;
     font-family: 'Merriweather', serif;
     font-size: 20px;
+    float: center;
+    color:black;
      
 
 }
