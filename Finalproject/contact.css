@@ -36,6 +36,7 @@ iframe{
     border-style: solid;
     border-color: black;
     border-width: 5px;
+    width: 50%;
 }
 #OOF1{
     color: #930707;
@@ -63,10 +64,20 @@ iframe{
     position: relative;
     font-family: 'Karla', sans-serif;
     font-size: 22px;
-    width: 30%;
+    width: 50%;
 }
+
+#Alejandro {
+    width: 50%;
+}
+#Alejandro::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 img{
-    width: 15%;
+    width: 50%;
     float: left;
     border-radius: 100px;
     border-style: solid;
