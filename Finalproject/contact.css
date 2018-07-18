@@ -59,19 +59,119 @@ iframe{
     border-color: black;
     margin-right: 7px;
     top: 130px;
-    right: 30px;
+    left: 20px;
     position: relative;
     font-family: 'Karla', sans-serif;
     font-size: 22px;
+    width: 30%;
 }
 img{
     width: 15%;
     float: left;
-    border-radius: 50px;
+    border-radius: 100px;
     border-style: solid;
     border-color: black;
     position: relative;
     top: 60px;
     margin-left: 10px;
     border-width: 4px;
+}
+#ayelmao{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 240px;
+    right: 200px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF3{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 115px;
+    left: 20px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+#XD{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 270px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF4{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 290px;
+    left: 20px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+#UGLY{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 400px;
+    right: 200px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF5{
+  border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 300px;
+    right: 660px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+#Bad_Picture{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 460px;
+    right: 400px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF6{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 490px;
+    right: 660px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
 }
