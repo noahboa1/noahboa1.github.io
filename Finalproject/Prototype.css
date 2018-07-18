@@ -3,9 +3,7 @@
 }
 
 body {
-    background: url(school.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: ghostwhite;
     color: rgb(255, 255, 255);
     font-size: 30px;
 }
@@ -53,4 +51,11 @@ div{
     width: 50%;
     float: left;
     margin: 50px
+}
+img{
+    width: 20%;
+    float: right;
+    position: relative;
+    right:210px;
+    margin:auto;
 }
