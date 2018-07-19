@@ -15,7 +15,7 @@ body {
 	
 }
 p{
-	font-size: 24px;
+	font-size: 20px;
 	font-family: 'Merriweather', serif;
 	width:600px;
 	float:left;
@@ -43,7 +43,6 @@ img{
 body {
     background-color: ghostwhite;
     color: rgb(255, 255, 255);
-    font-size: 30px;
 }
 
 nav {
