@@ -1,5 +1,8 @@
 * {
     box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
 }
 
 body {
@@ -47,11 +50,7 @@ h2{
     float: left;
     margin:50px
 }
-div{
-    width: 50%;
-    float: left;
-    margin: 50px
-}p{
+p{
     font-size:18.5px;     
     color: black;
     font-family: 'Merriweather', serif;
@@ -92,7 +91,7 @@ body{
 h1{
     text-align: center;
     font-family: 'Merriweather', serif;
-    font-size: 100px;
+    font-size: 50px;
     float: center;
     color:black;
      
@@ -109,4 +108,3 @@ img{
 p{
     font-size: 28px
 }
-
