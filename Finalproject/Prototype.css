@@ -1,3 +1,60 @@
+/* Mobie Devices in portrait mode*/
+@media only screen and
+    (min-width:300px) and
+    (max-width:425px) and 
+    (orientation:portrait){
+        body{background-color:ghostwhite}
+        nav {
+    width: 100%;
+}
+
+nav a {
+    list-style-type:none;
+    margin:25;
+    overflow:hidden;
+    font-family:'Merriweather';
+    background-color:#930707;
+    text-align:center;
+    float:middle;
+    display:block;
+    text-align:center;
+    text-decoration:none;
+    padding:14px;
+    color:ghostwhite;
+    width: 92%;
+    
+}
+   header {
+    color: black;
+       font-size: 30px;
+    position: relative;
+    top:10px;
+    left: 120px
+} 
+  p{
+    color: black;
+    font-size: 20px;
+      padding: 10px
+}
+ h2{
+    color: black;
+    right: 500px;
+    width: 300px;
+    border: 4px solid #930707;
+    padding: 10px;
+    float: middle;
+    margin:14px;
+    text-align: center
+}  
+        img{
+    width: 40%;
+    float: right;
+    position: relative;
+    right:120px;
+    margin:auto;
+}
+}
+/*
 * {
     box-sizing: border-box;
 }
@@ -24,7 +81,7 @@ nav a {
     text-align:center;
     text-decoration:none;
     padding:14px;
-    color:white;
+    color:ghostwhite;
     width: 25%;
     
 }
