@@ -4,7 +4,10 @@
     padding: 0px;
     border: 0px;
 }
+@media only screen and (min-width: 700px)(max-width: 900px){
+}
 
+}
 body {
     background-color: ghostwhite;
     font-size: 30px;
@@ -157,7 +160,7 @@ img{
     border-style: solid;
     border-color: black;
     position: relative;
-    top: 460px;
+    top: 485px;
     right: 400px;
     margin-left: 10px;
     border-width: 4px;
