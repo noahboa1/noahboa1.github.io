@@ -1,3 +1,9 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
 /* Mobie Devices in portrait mode*/
 @media only screen and
     (min-width:300px) and
@@ -7,7 +13,6 @@
         nav {
     width: 100%;
 }
-
 nav a {
     list-style-type:none;
     margin:25;
@@ -21,8 +26,8 @@ nav a {
     text-decoration:none;
     padding:14px;
     color:ghostwhite;
-    width: 92%;
-     font-size: 17px
+    width: 100%;
+    
 }
    header {
     color: black;
@@ -34,7 +39,7 @@ nav a {
   p{
     color: black;
     font-size: 20px;
-      padding: 10px
+    padding: 10px;
 }
  h2{
     color: black;
@@ -92,6 +97,7 @@ nav a {
 p{
     color: black;
     font-size: 20px;
+    margin: 1em;
 }
 header {
     color: black;
@@ -119,6 +125,4 @@ img{
     position: relative;
     right:210px;
     margin:auto;
-}
-        
 }
