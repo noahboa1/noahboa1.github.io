@@ -1,5 +1,5 @@
-
-@media only screen and (min-width: 700px)(max-width: 900px){
+@media only screen and 
+	(min-width:300px)and (max-width:425px)and (orientation:portrait){
 }
 * {
 	
@@ -136,6 +136,560 @@ img{
 }
 
 
+
+@media only screen and
+	(min-width:667px){
+		* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    background-color: ghostwhite;
+    font-size: 30px;
+}
+
+nav {
+    width: 100%;
+}
+
+nav a {
+    list-style-type:none;
+    overflow:hidden;
+    font-family:'Merriweather';
+    background-color:#930707;
+    text-align:center;
+    float:left;
+    display:block;
+    text-align:center;
+    text-decoration:none;
+    padding:14px;
+    color:white;
+    width: 25%;
+    font-size: 25px;
+    
+}
+iframe{
+    float: right;
+    margin: 1em;
+    margin-left: 1px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+	width:50%;
+
+}
+		
+#OOF1{
+    color: #930707;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    border-style: solid;
+    border-color: #930707;
+    width: 100%;
+    margin-top: 1em;
+    width: 24%;
+    position: relative;
+    top: 30px;
+    left: 140px;
+    display: inline;
+    padding: 7px;
+}
+#OOF2{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 130px;
+    left: 20px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+img{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 60px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#ayelmao{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 240px;
+    right: 200px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF3{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 115px;
+    left: 20px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+#XD{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 270px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF4{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 290px;
+    left: 20px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+#UGLY{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 400px;
+    right: 200px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF5{
+  border-style: solid;
+    color: black;
+    float: left;
+    border-color: black;
+    margin-right: 7px;
+    top: 300px;
+    left: -165px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+#Bad_Picture{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 485px;
+    right: 785px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF6{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 350px;
+    left: -650px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+*/
+
+
+
+/*;
+}
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    background-color: ghostwhite;
+    font-size: 30px;
+}
+
+nav {
+    width: 100%;
+}
+
+nav a {
+    list-style-type:none;
+    overflow:hidden;
+    font-family:'Merriweather';
+    background-color:#930707;
+    text-align:center;
+    float:left;
+    display:block;
+    text-align:center;
+    text-decoration:none;
+    padding:14px;
+    color:white;
+    width: 25%;
+    font-size: 25px;
+    
+}
+iframe{
+    float: right;
+    margin: 1em;
+    margin-left: 1px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+#OOF1{
+    color: #930707;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    border-style: solid;
+    border-color: #930707;
+    width: 100%;
+    margin-top: 1em;
+    width: 24%;
+    position: relative;
+    top: 30px;
+    left: 140px;
+    display: inline;
+    padding: 7px;
+}
+#OOF2{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 130px;
+    left: 20px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+img{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 60px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#ayelmao{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 240px;
+    right: 200px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF3{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 115px;
+    left: 20px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+#XD{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 270px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF4{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 290px;
+    left: 20px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+#UGLY{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 400px;
+    right: 200px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF5{
+  border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 300px;
+    right: 660px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+#Bad_Picture{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 485px;
+    right: 400px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF6{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 490px;
+    right: 660px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+		
+}
+
+
+
+/*;
+}
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    background-color: ghostwhite;
+    font-size: 30px;
+}
+
+nav {
+    width: 100%;
+}
+
+nav a {
+    list-style-type:none;
+    overflow:hidden;
+    font-family:'Merriweather';
+    background-color:#930707;
+    text-align:center;
+    float:left;
+    display:block;
+    text-align:center;
+    text-decoration:none;
+    padding:14px;
+    color:white;
+    width: 25%;
+    font-size: 25px;
+    
+}
+iframe{
+    float: right;
+    margin: 1em;
+    margin-left: 1px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+#OOF1{
+    color: #930707;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    border-style: solid;
+    border-color: #930707;
+    width: 100%;
+    margin-top: 1em;
+    width: 24%;
+    position: relative;
+    top: 30px;
+    left: 140px;
+    display: inline;
+    padding: 7px;
+}
+#OOF2{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 130px;
+    left: 20px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+img{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 60px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#ayelmao{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 240px;
+    right: 200px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF3{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 115px;
+    left: 20px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+#XD{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 270px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF4{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 290px;
+    left: 20px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+#UGLY{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 400px;
+    right: 200px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF5{
+  border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 300px;
+    right: 660px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+#Bad_Picture{
+    width: 15%;
+    float: left;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 485px;
+    right: 400px;
+    margin-left: 10px;
+    border-width: 4px;
+}
+#OOF6{
+    border-style: solid;
+    color: black;
+    float: right;
+    border-color: black;
+    margin-right: 7px;
+    top: 490px;
+    right: 660px;
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    font-size: 22px;
+    width: 30%;
+}
+*/
 
 
 
