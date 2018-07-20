@@ -35,7 +35,7 @@ nav a {
        font-size: 30px;
     position: relative;
     top:10px;
-    left: 120px
+    left: 150px
 } 
   p{
     color: black;
@@ -50,7 +50,8 @@ nav a {
     padding: 10px;
     float: middle;
     margin:14px;
-    text-align: center
+    text-align: center;
+     margin-left:30px;
 }  
         img{
     width: 40%;
@@ -113,8 +114,7 @@ h2{
     border: 3px solid #930707;
     padding: 10px;
     float: left;
-    margin:50px;
-    margin-left: 30px;
+    margin:50px
 }
 div{
     width: 50%;
